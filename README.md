@@ -1,4 +1,4 @@
-# SQLalchemy_Challenge
+# SQLalchemy Challenge
 
 For this assignment, the following will be analyzed:
 
